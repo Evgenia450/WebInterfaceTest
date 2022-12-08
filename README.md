@@ -1,1 +1,1 @@
-# WebInterfaceTest
+[![Build status](https://ci.appveyor.com/api/projects/status/hl0rfl5i46vnlji5?svg=true)](https://ci.appveyor.com/project/Evgenia450/webinterfacetest)
